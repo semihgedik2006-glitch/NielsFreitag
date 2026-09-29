@@ -106,6 +106,24 @@ Plaud-Transkript → in `context/transcripts/` → Zusammenfassung, Entscheidung
 - Ablage: privates GitHub-Repo für die Arbeit + Zusammenfassung in Google Drive für Niels.
 - Gmail/Kalender: Claude fasst nichts an (keine Entwürfe, keine Termine).
 
+## 7b. Antworten von Semih (Update)
+- Kunde: Dr. med. Niels Freitag, Kosmetikstudio (Pilot zuerst Studio + Skincare + Shop).
+- Umfang: Pilotprojekt.
+- Rolle: Semih macht alles selbst, allein, in Absprache mit Niels.
+- Kanäle: alle (Priorität laut Gespräch: YouTube, Instagram, Facebook; TikTok Nebenkanal). Es gibt **keine Brand-Guidelines** → Phase 1 muss sie erstellen; Rest muss Semih bei Niels erfragen.
+- Tools: alle dürfen genutzt werden (Kosten trägt laut Niels das Projekt, Budget wird gemeinsam festgelegt).
+- Ablage: Repo ist die Hauptablage (Drive-Zusammenfassung nur bei Bedarf).
+- Automatisierung: so viel wie möglich, aber Gmail/Kalender bleiben tabu und Skripte brauchen Niels' Freigabe.
+- Automatischer Transkript-Workflow (Abschnitt 6): nicht gewünscht, nur auf Zuruf.
+
+### Fragen, die Semih bei Niels klären muss
+- Brand-Guidelines: Farben, Logo, Schriften, Tonalität, Do/Don't
+- Zugang zu Social-Media-Claude-Projekt und Report
+- Budget, Tool-Accounts und Lizenzmodell (Team statt zweitem Pro Max)
+- Account-Handles und Zugänge der Kanäle
+- Zustimmung Avatar/Stimmklon
+- Rahmen/Vergütung nach dem ersten Ergebnis und Absprache mit Marcel
+
 ## 8. Offene Fragen
 - Ab wann/mit welchem Datum ist der Call mit Niels genau?
 - Läuft das als Nebenjob, Werkstudent (geht wegen dualem Studium nicht) oder auf Projektbasis? Vergütung: erst nach erstem Ergebnis.
