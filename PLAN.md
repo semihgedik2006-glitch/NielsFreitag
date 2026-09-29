@@ -124,11 +124,18 @@ Plaud-Transkript → in `context/transcripts/` → Zusammenfassung, Entscheidung
 - Zustimmung Avatar/Stimmklon
 - Rahmen/Vergütung nach dem ersten Ergebnis und Absprache mit Marcel
 
-## 8. Offene Fragen
-- Ab wann/mit welchem Datum ist der Call mit Niels genau?
-- Läuft das als Nebenjob, Werkstudent (geht wegen dualem Studium nicht) oder auf Projektbasis? Vergütung: erst nach erstem Ergebnis.
-- Ist Marcel schon informiert, dass du für Niels arbeitest?
-- Lizenzmodell Claude: Team-Plan oder Nutzung über Niels' Pro Max?
-- Zugang zu Niels' Social-Media-Claude-Projekt / Report (Format, Übergabe).
-- Aktueller Stand der Kanäle (Handles, Follower, letzter Post) für die Ausgangskurve.
-- Erlaubt Niels Voice-/Gesichtsklon (HeyGen/ElevenLabs) schriftlich, und wer hält die Rechte?
+## 8. Antworten Runde 2 (Semih)
+- Call mit Niels: nächste Woche, Termin noch offen.
+- Rahmen: Nebenprojekt.
+- Marcel weiß Bescheid.
+- Claude-Lizenz: egal, noch offen (Klärung mit Niels).
+- Niels' Report/Social-Media-Projekt: kommt vermutlich in den nächsten Tagen.
+- Kanal-Stand (Handles/Follower): unbekannt. Vorerst alles theoretisch, ohne echte Kanaldaten.
+- Avatar-/Stimmklon-Zustimmung: Niels ist einverstanden, formal noch nicht umgesetzt (schriftlich festhalten, bevor etwas gebaut wird).
+- Tools: Semih hat nur Claude.
+- Sprache/Ton: Deutsch, für Niels gut lesbar.
+
+## 9. Noch offen
+- Konkreter Call-Termin
+- Lizenz-/Budgetmodell
+- Report von Niels, Kanaldaten, schriftliche Avatar-Zustimmung
